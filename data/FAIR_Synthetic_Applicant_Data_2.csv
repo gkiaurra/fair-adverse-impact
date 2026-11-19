@@ -1,0 +1,801 @@
+﻿applicant_id,gender,race_ethnicity,age_group,minority_group,qualified,selected
+SYN2-0001,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0002,Female,Asian,Under 40,Minority,1,1
+SYN2-0003,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0004,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0005,Female,White,Under 40,Majority,0,0
+SYN2-0006,Female,White,Under 40,Majority,1,1
+SYN2-0007,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0008,Female,White,40 and over,Majority,0,0
+SYN2-0009,Male,White,Under 40,Majority,0,0
+SYN2-0010,Female,White,Under 40,Majority,1,1
+SYN2-0011,Male,Asian,Under 40,Minority,1,0
+SYN2-0012,Male,White,40 and over,Majority,1,0
+SYN2-0013,Female,White,Under 40,Majority,1,1
+SYN2-0014,Female,White,40 and over,Majority,1,1
+SYN2-0015,Male,White,40 and over,Majority,0,1
+SYN2-0016,Male,White,Under 40,Majority,0,0
+SYN2-0017,Female,White,Under 40,Majority,1,1
+SYN2-0018,Male,White,Under 40,Majority,1,0
+SYN2-0019,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0020,Female,White,40 and over,Majority,0,0
+SYN2-0021,Female,Two or More Races,Under 40,Minority,0,0
+SYN2-0022,Male,White,40 and over,Majority,1,1
+SYN2-0023,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0024,Female,White,Under 40,Majority,1,1
+SYN2-0025,Male,Two or More Races,Under 40,Minority,0,0
+SYN2-0026,Male,White,Under 40,Majority,1,1
+SYN2-0027,Female,White,40 and over,Majority,0,0
+SYN2-0028,Female,White,Under 40,Majority,1,1
+SYN2-0029,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0030,Female,White,Under 40,Majority,1,1
+SYN2-0031,Female,White,Under 40,Majority,1,0
+SYN2-0032,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0033,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0034,Male,White,Under 40,Majority,1,1
+SYN2-0035,Female,White,40 and over,Majority,0,0
+SYN2-0036,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0037,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0038,Male,White,Under 40,Majority,0,0
+SYN2-0039,Female,White,40 and over,Majority,0,0
+SYN2-0040,Female,White,40 and over,Majority,1,1
+SYN2-0041,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0042,Male,White,Under 40,Majority,0,0
+SYN2-0043,Female,White,Under 40,Majority,1,0
+SYN2-0044,Male,Two or More Races,40 and over,Minority,1,0
+SYN2-0045,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0046,Female,White,Under 40,Majority,1,1
+SYN2-0047,Male,White,Under 40,Majority,1,1
+SYN2-0048,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0049,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0050,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0051,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0052,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0053,Female,White,40 and over,Majority,0,0
+SYN2-0054,Male,Two or More Races,Under 40,Minority,1,0
+SYN2-0055,Female,White,Under 40,Majority,0,0
+SYN2-0056,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0057,Female,White,40 and over,Majority,1,1
+SYN2-0058,Female,White,Under 40,Majority,0,0
+SYN2-0059,Female,Hispanic or Latino,40 and over,Minority,0,1
+SYN2-0060,Female,White,Under 40,Majority,0,0
+SYN2-0061,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0062,Male,White,Under 40,Majority,1,0
+SYN2-0063,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0064,Male,Black or African American,40 and over,Minority,1,1
+SYN2-0065,Female,White,Under 40,Majority,1,0
+SYN2-0066,Male,White,Under 40,Majority,0,0
+SYN2-0067,Male,White,Under 40,Majority,0,0
+SYN2-0068,Female,White,40 and over,Majority,1,1
+SYN2-0069,Male,White,Under 40,Majority,0,0
+SYN2-0070,Female,White,40 and over,Majority,0,0
+SYN2-0071,Female,White,Under 40,Majority,1,0
+SYN2-0072,Female,White,40 and over,Majority,1,0
+SYN2-0073,Female,White,40 and over,Majority,1,0
+SYN2-0074,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0075,Male,Asian,Under 40,Minority,1,1
+SYN2-0076,Female,White,40 and over,Majority,0,0
+SYN2-0077,Female,White,40 and over,Majority,1,1
+SYN2-0078,Female,White,40 and over,Majority,1,1
+SYN2-0079,Female,White,40 and over,Majority,0,0
+SYN2-0080,Female,White,Under 40,Majority,1,0
+SYN2-0081,Male,White,Under 40,Majority,1,1
+SYN2-0082,Male,Asian,Under 40,Minority,1,0
+SYN2-0083,Female,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0084,Male,White,Under 40,Majority,0,0
+SYN2-0085,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0086,Male,White,40 and over,Majority,1,1
+SYN2-0087,Male,Two or More Races,40 and over,Minority,1,0
+SYN2-0088,Female,White,40 and over,Majority,1,0
+SYN2-0089,Male,White,Under 40,Majority,0,0
+SYN2-0090,Male,Two or More Races,40 and over,Minority,1,1
+SYN2-0091,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0092,Female,White,40 and over,Majority,1,0
+SYN2-0093,Female,White,40 and over,Majority,1,0
+SYN2-0094,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0095,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0096,Male,White,Under 40,Majority,0,0
+SYN2-0097,Male,White,Under 40,Majority,1,1
+SYN2-0098,Female,White,Under 40,Majority,1,1
+SYN2-0099,Female,White,Under 40,Majority,0,0
+SYN2-0100,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0101,Male,Asian,40 and over,Minority,0,0
+SYN2-0102,Male,White,Under 40,Majority,1,0
+SYN2-0103,Male,White,Under 40,Majority,0,0
+SYN2-0104,Female,White,Under 40,Majority,1,0
+SYN2-0105,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0106,Female,White,Under 40,Majority,0,0
+SYN2-0107,Male,Black or African American,40 and over,Minority,1,0
+SYN2-0108,Male,White,Under 40,Majority,1,1
+SYN2-0109,Male,Asian,Under 40,Minority,0,0
+SYN2-0110,Male,Asian,Under 40,Minority,0,1
+SYN2-0111,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0112,Male,Two or More Races,Under 40,Minority,1,0
+SYN2-0113,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0114,Female,White,Under 40,Majority,1,1
+SYN2-0115,Female,Two or More Races,Under 40,Minority,1,1
+SYN2-0116,Female,Asian,Under 40,Minority,1,1
+SYN2-0117,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0118,Male,Two or More Races,40 and over,Minority,1,1
+SYN2-0119,Female,Asian,Under 40,Minority,1,1
+SYN2-0120,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0121,Male,Asian,Under 40,Minority,0,0
+SYN2-0122,Female,White,Under 40,Majority,1,0
+SYN2-0123,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0124,Male,White,Under 40,Majority,1,0
+SYN2-0125,Female,White,Under 40,Majority,0,0
+SYN2-0126,Male,Asian,40 and over,Minority,1,0
+SYN2-0127,Female,White,Under 40,Majority,1,0
+SYN2-0128,Male,White,40 and over,Majority,1,1
+SYN2-0129,Female,White,Under 40,Majority,0,0
+SYN2-0130,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0131,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0132,Male,White,Under 40,Majority,1,0
+SYN2-0133,Male,White,Under 40,Majority,0,0
+SYN2-0134,Female,White,Under 40,Majority,0,0
+SYN2-0135,Male,Black or African American,40 and over,Minority,1,1
+SYN2-0136,Female,White,40 and over,Majority,1,1
+SYN2-0137,Male,Black or African American,Under 40,Minority,1,1
+SYN2-0138,Male,White,Under 40,Majority,1,1
+SYN2-0139,Male,Asian,Under 40,Minority,0,0
+SYN2-0140,Male,Asian,40 and over,Minority,1,1
+SYN2-0141,Male,White,40 and over,Majority,1,1
+SYN2-0142,Female,Asian,Under 40,Minority,0,0
+SYN2-0143,Male,Two or More Races,40 and over,Minority,1,0
+SYN2-0144,Male,Asian,40 and over,Minority,0,0
+SYN2-0145,Female,White,Under 40,Majority,0,0
+SYN2-0146,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0147,Male,White,Under 40,Majority,1,0
+SYN2-0148,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0149,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0150,Male,Asian,Under 40,Minority,1,1
+SYN2-0151,Male,White,Under 40,Majority,0,1
+SYN2-0152,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0153,Female,White,Under 40,Majority,1,0
+SYN2-0154,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0155,Female,White,Under 40,Majority,1,1
+SYN2-0156,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0157,Female,Asian,Under 40,Minority,0,0
+SYN2-0158,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0159,Male,White,Under 40,Majority,0,0
+SYN2-0160,Male,White,Under 40,Majority,0,0
+SYN2-0161,Male,Two or More Races,Under 40,Minority,1,1
+SYN2-0162,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0163,Female,Two or More Races,40 and over,Minority,0,1
+SYN2-0164,Female,White,Under 40,Majority,1,1
+SYN2-0165,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0166,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0167,Male,Asian,Under 40,Minority,1,1
+SYN2-0168,Female,White,Under 40,Majority,1,1
+SYN2-0169,Female,Asian,40 and over,Minority,1,1
+SYN2-0170,Male,Asian,Under 40,Minority,0,0
+SYN2-0171,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0172,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0173,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0174,Female,White,Under 40,Majority,0,0
+SYN2-0175,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0176,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0177,Female,White,Under 40,Majority,0,0
+SYN2-0178,Male,White,Under 40,Majority,0,0
+SYN2-0179,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0180,Male,White,Under 40,Majority,0,0
+SYN2-0181,Female,White,Under 40,Majority,1,0
+SYN2-0182,Male,White,Under 40,Majority,0,0
+SYN2-0183,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0184,Female,White,Under 40,Majority,1,1
+SYN2-0185,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0186,Female,White,40 and over,Majority,1,1
+SYN2-0187,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0188,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0189,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0190,Male,White,Under 40,Majority,1,0
+SYN2-0191,Female,White,Under 40,Majority,1,0
+SYN2-0192,Male,White,40 and over,Majority,1,1
+SYN2-0193,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0194,Female,White,40 and over,Majority,0,0
+SYN2-0195,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0196,Female,White,Under 40,Majority,1,0
+SYN2-0197,Male,White,Under 40,Majority,1,0
+SYN2-0198,Male,White,Under 40,Majority,1,0
+SYN2-0199,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0200,Female,Asian,40 and over,Minority,0,0
+SYN2-0201,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0202,Female,Asian,Under 40,Minority,0,0
+SYN2-0203,Male,White,Under 40,Majority,0,0
+SYN2-0204,Female,Two or More Races,Under 40,Minority,0,0
+SYN2-0205,Male,Two or More Races,Under 40,Minority,0,0
+SYN2-0206,Female,White,Under 40,Majority,1,1
+SYN2-0207,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0208,Male,White,Under 40,Majority,1,1
+SYN2-0209,Male,White,40 and over,Majority,0,0
+SYN2-0210,Male,Asian,Under 40,Minority,1,1
+SYN2-0211,Female,Black or African American,Under 40,Minority,0,1
+SYN2-0212,Female,White,Under 40,Majority,1,1
+SYN2-0213,Male,White,Under 40,Majority,0,0
+SYN2-0214,Female,White,Under 40,Majority,0,0
+SYN2-0215,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0216,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0217,Female,White,Under 40,Majority,0,0
+SYN2-0218,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0219,Female,Asian,40 and over,Minority,0,0
+SYN2-0220,Male,White,40 and over,Majority,0,1
+SYN2-0221,Male,White,Under 40,Majority,0,0
+SYN2-0222,Male,Asian,Under 40,Minority,1,0
+SYN2-0223,Female,White,40 and over,Majority,1,1
+SYN2-0224,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0225,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0226,Female,White,40 and over,Majority,0,0
+SYN2-0227,Female,White,Under 40,Majority,0,0
+SYN2-0228,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0229,Female,White,40 and over,Majority,1,1
+SYN2-0230,Male,White,Under 40,Majority,1,1
+SYN2-0231,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0232,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0233,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0234,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0235,Male,White,40 and over,Majority,0,0
+SYN2-0236,Male,White,40 and over,Majority,0,0
+SYN2-0237,Female,White,40 and over,Majority,1,0
+SYN2-0238,Male,Asian,Under 40,Minority,1,1
+SYN2-0239,Female,White,Under 40,Majority,1,0
+SYN2-0240,Female,Asian,Under 40,Minority,1,0
+SYN2-0241,Male,White,40 and over,Majority,0,0
+SYN2-0242,Female,White,Under 40,Majority,0,0
+SYN2-0243,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0244,Female,Asian,Under 40,Minority,0,0
+SYN2-0245,Male,White,Under 40,Majority,1,1
+SYN2-0246,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0247,Female,White,40 and over,Majority,1,1
+SYN2-0248,Male,White,40 and over,Majority,0,0
+SYN2-0249,Female,White,Under 40,Majority,1,0
+SYN2-0250,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0251,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0252,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0253,Female,White,Under 40,Majority,1,1
+SYN2-0254,Female,White,Under 40,Majority,1,0
+SYN2-0255,Male,White,Under 40,Majority,0,0
+SYN2-0256,Male,White,Under 40,Majority,1,1
+SYN2-0257,Male,Asian,40 and over,Minority,0,0
+SYN2-0258,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0259,Female,White,40 and over,Majority,1,0
+SYN2-0260,Female,White,Under 40,Majority,1,1
+SYN2-0261,Female,White,40 and over,Majority,0,1
+SYN2-0262,Male,Asian,40 and over,Minority,1,1
+SYN2-0263,Male,White,Under 40,Majority,0,0
+SYN2-0264,Male,Black or African American,Under 40,Minority,1,1
+SYN2-0265,Female,White,40 and over,Majority,1,1
+SYN2-0266,Male,White,Under 40,Majority,0,0
+SYN2-0267,Female,White,Under 40,Majority,0,0
+SYN2-0268,Female,Two or More Races,40 and over,Minority,1,0
+SYN2-0269,Male,White,Under 40,Majority,0,0
+SYN2-0270,Male,White,40 and over,Majority,0,0
+SYN2-0271,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0272,Male,White,40 and over,Majority,1,1
+SYN2-0273,Female,White,40 and over,Majority,0,0
+SYN2-0274,Female,White,Under 40,Majority,1,1
+SYN2-0275,Female,White,Under 40,Majority,0,0
+SYN2-0276,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0277,Female,White,Under 40,Majority,1,0
+SYN2-0278,Female,Asian,Under 40,Minority,1,1
+SYN2-0279,Male,White,Under 40,Majority,1,1
+SYN2-0280,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0281,Male,White,40 and over,Majority,0,0
+SYN2-0282,Female,Asian,Under 40,Minority,0,0
+SYN2-0283,Female,White,Under 40,Majority,1,0
+SYN2-0284,Female,White,Under 40,Majority,1,1
+SYN2-0285,Male,White,Under 40,Majority,1,1
+SYN2-0286,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0287,Female,White,Under 40,Majority,1,1
+SYN2-0288,Male,White,Under 40,Majority,1,1
+SYN2-0289,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0290,Female,White,Under 40,Majority,0,0
+SYN2-0291,Male,White,Under 40,Majority,1,1
+SYN2-0292,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0293,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0294,Female,White,Under 40,Majority,1,1
+SYN2-0295,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0296,Female,White,Under 40,Majority,1,0
+SYN2-0297,Male,White,Under 40,Majority,1,0
+SYN2-0298,Male,White,Under 40,Majority,1,1
+SYN2-0299,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0300,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0301,Male,White,Under 40,Majority,1,0
+SYN2-0302,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0303,Female,White,40 and over,Majority,0,0
+SYN2-0304,Male,Asian,Under 40,Minority,1,0
+SYN2-0305,Male,White,Under 40,Majority,1,1
+SYN2-0306,Female,Asian,40 and over,Minority,0,0
+SYN2-0307,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0308,Female,White,Under 40,Majority,0,0
+SYN2-0309,Female,Two or More Races,40 and over,Minority,0,0
+SYN2-0310,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0311,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0312,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0313,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0314,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0315,Female,White,40 and over,Majority,0,0
+SYN2-0316,Female,White,Under 40,Majority,1,1
+SYN2-0317,Male,White,40 and over,Majority,1,0
+SYN2-0318,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0319,Male,Asian,Under 40,Minority,1,1
+SYN2-0320,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0321,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0322,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0323,Female,White,40 and over,Majority,1,0
+SYN2-0324,Female,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0325,Male,White,Under 40,Majority,1,1
+SYN2-0326,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0327,Female,White,Under 40,Majority,1,1
+SYN2-0328,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0329,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0330,Female,White,40 and over,Majority,0,0
+SYN2-0331,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0332,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0333,Female,White,40 and over,Majority,0,0
+SYN2-0334,Female,Asian,Under 40,Minority,0,0
+SYN2-0335,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0336,Male,Black or African American,40 and over,Minority,1,0
+SYN2-0337,Male,White,Under 40,Majority,1,1
+SYN2-0338,Female,White,Under 40,Majority,1,0
+SYN2-0339,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0340,Female,Asian,Under 40,Minority,1,1
+SYN2-0341,Male,White,40 and over,Majority,0,0
+SYN2-0342,Male,White,Under 40,Majority,1,1
+SYN2-0343,Female,White,40 and over,Majority,1,1
+SYN2-0344,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0345,Male,White,40 and over,Majority,1,1
+SYN2-0346,Female,Two or More Races,Under 40,Minority,1,1
+SYN2-0347,Female,White,40 and over,Majority,1,1
+SYN2-0348,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0349,Male,White,40 and over,Majority,1,0
+SYN2-0350,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0351,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0352,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0353,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0354,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0355,Male,White,40 and over,Majority,0,0
+SYN2-0356,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0357,Female,White,40 and over,Majority,1,1
+SYN2-0358,Female,White,Under 40,Majority,0,0
+SYN2-0359,Female,White,Under 40,Majority,1,0
+SYN2-0360,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0361,Female,White,Under 40,Majority,0,0
+SYN2-0362,Female,White,Under 40,Majority,1,0
+SYN2-0363,Male,White,Under 40,Majority,0,0
+SYN2-0364,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0365,Male,White,Under 40,Majority,1,0
+SYN2-0366,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0367,Male,Asian,Under 40,Minority,1,0
+SYN2-0368,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0369,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0370,Male,White,40 and over,Majority,1,0
+SYN2-0371,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0372,Male,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0373,Male,White,40 and over,Majority,0,0
+SYN2-0374,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0375,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0376,Male,White,Under 40,Majority,0,0
+SYN2-0377,Female,White,Under 40,Majority,0,0
+SYN2-0378,Male,White,Under 40,Majority,1,0
+SYN2-0379,Male,Asian,Under 40,Minority,1,0
+SYN2-0380,Female,White,Under 40,Majority,1,0
+SYN2-0381,Male,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0382,Male,Asian,Under 40,Minority,0,0
+SYN2-0383,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0384,Female,White,Under 40,Majority,1,1
+SYN2-0385,Male,White,Under 40,Majority,0,0
+SYN2-0386,Female,White,Under 40,Majority,0,0
+SYN2-0387,Female,White,40 and over,Majority,1,1
+SYN2-0388,Female,White,Under 40,Majority,0,0
+SYN2-0389,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0390,Male,Asian,Under 40,Minority,1,1
+SYN2-0391,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0392,Female,White,40 and over,Majority,0,0
+SYN2-0393,Female,White,Under 40,Majority,0,0
+SYN2-0394,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0395,Female,White,40 and over,Majority,1,1
+SYN2-0396,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0397,Male,White,Under 40,Majority,0,0
+SYN2-0398,Female,Hispanic or Latino,Under 40,Minority,0,1
+SYN2-0399,Female,White,Under 40,Majority,0,0
+SYN2-0400,Female,White,Under 40,Majority,0,1
+SYN2-0401,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0402,Female,White,40 and over,Majority,1,0
+SYN2-0403,Female,White,Under 40,Majority,1,0
+SYN2-0404,Female,Two or More Races,40 and over,Minority,1,0
+SYN2-0405,Female,White,Under 40,Majority,0,0
+SYN2-0406,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0407,Male,White,Under 40,Majority,1,0
+SYN2-0408,Female,White,40 and over,Majority,1,1
+SYN2-0409,Female,Asian,40 and over,Minority,0,0
+SYN2-0410,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0411,Female,Two or More Races,40 and over,Minority,1,1
+SYN2-0412,Female,White,Under 40,Majority,0,0
+SYN2-0413,Female,White,40 and over,Majority,1,0
+SYN2-0414,Female,White,40 and over,Majority,0,0
+SYN2-0415,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0416,Female,White,40 and over,Majority,1,1
+SYN2-0417,Female,White,Under 40,Majority,1,0
+SYN2-0418,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0419,Male,White,Under 40,Majority,0,0
+SYN2-0420,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0421,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0422,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0423,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0424,Female,White,40 and over,Majority,1,1
+SYN2-0425,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0426,Female,White,Under 40,Majority,1,1
+SYN2-0427,Male,White,Under 40,Majority,0,0
+SYN2-0428,Male,White,Under 40,Majority,1,0
+SYN2-0429,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0430,Female,White,40 and over,Majority,0,0
+SYN2-0431,Female,White,40 and over,Majority,1,0
+SYN2-0432,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0433,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0434,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0435,Male,White,Under 40,Majority,1,1
+SYN2-0436,Female,White,Under 40,Majority,0,0
+SYN2-0437,Female,White,Under 40,Majority,1,0
+SYN2-0438,Male,Asian,40 and over,Minority,0,0
+SYN2-0439,Male,White,Under 40,Majority,1,1
+SYN2-0440,Female,Two or More Races,40 and over,Minority,1,1
+SYN2-0441,Male,White,Under 40,Majority,1,1
+SYN2-0442,Female,White,Under 40,Majority,0,0
+SYN2-0443,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0444,Male,White,Under 40,Majority,1,1
+SYN2-0445,Female,White,40 and over,Majority,0,0
+SYN2-0446,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0447,Female,White,Under 40,Majority,1,0
+SYN2-0448,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0449,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0450,Male,Asian,Under 40,Minority,0,0
+SYN2-0451,Male,White,40 and over,Majority,1,0
+SYN2-0452,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0453,Female,White,Under 40,Majority,0,0
+SYN2-0454,Male,Black or African American,40 and over,Minority,1,1
+SYN2-0455,Female,White,40 and over,Majority,1,0
+SYN2-0456,Female,Asian,Under 40,Minority,1,0
+SYN2-0457,Female,White,40 and over,Majority,1,0
+SYN2-0458,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0459,Female,White,Under 40,Majority,0,0
+SYN2-0460,Male,White,Under 40,Majority,1,1
+SYN2-0461,Male,White,40 and over,Majority,1,1
+SYN2-0462,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0463,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0464,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0465,Male,Asian,Under 40,Minority,1,1
+SYN2-0466,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0467,Male,White,Under 40,Majority,1,1
+SYN2-0468,Female,White,Under 40,Majority,1,0
+SYN2-0469,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0470,Male,White,Under 40,Majority,0,0
+SYN2-0471,Female,White,40 and over,Majority,1,0
+SYN2-0472,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0473,Female,White,40 and over,Majority,1,0
+SYN2-0474,Female,White,Under 40,Majority,1,1
+SYN2-0475,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0476,Female,White,40 and over,Majority,1,0
+SYN2-0477,Female,White,40 and over,Majority,0,0
+SYN2-0478,Male,White,40 and over,Majority,1,1
+SYN2-0479,Female,Two or More Races,Under 40,Minority,0,0
+SYN2-0480,Male,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0481,Male,White,40 and over,Majority,1,1
+SYN2-0482,Female,White,Under 40,Majority,0,0
+SYN2-0483,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0484,Male,White,Under 40,Majority,1,0
+SYN2-0485,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0486,Male,White,Under 40,Majority,0,0
+SYN2-0487,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0488,Female,White,Under 40,Majority,0,1
+SYN2-0489,Male,Two or More Races,Under 40,Minority,0,0
+SYN2-0490,Female,Two or More Races,40 and over,Minority,0,0
+SYN2-0491,Female,White,Under 40,Majority,0,0
+SYN2-0492,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0493,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0494,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0495,Female,White,40 and over,Majority,0,0
+SYN2-0496,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0497,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0498,Male,White,Under 40,Majority,0,0
+SYN2-0499,Male,White,Under 40,Majority,0,0
+SYN2-0500,Male,White,Under 40,Majority,0,0
+SYN2-0501,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0502,Male,Black or African American,40 and over,Minority,1,1
+SYN2-0503,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0504,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0505,Male,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0506,Female,White,Under 40,Majority,0,0
+SYN2-0507,Male,White,Under 40,Majority,1,1
+SYN2-0508,Female,White,Under 40,Majority,1,1
+SYN2-0509,Female,White,Under 40,Majority,1,0
+SYN2-0510,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0511,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0512,Male,White,Under 40,Majority,1,1
+SYN2-0513,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0514,Male,Asian,Under 40,Minority,1,1
+SYN2-0515,Male,Asian,Under 40,Minority,0,0
+SYN2-0516,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0517,Male,White,Under 40,Majority,1,1
+SYN2-0518,Female,Asian,Under 40,Minority,1,1
+SYN2-0519,Female,White,Under 40,Majority,1,0
+SYN2-0520,Female,White,Under 40,Majority,1,0
+SYN2-0521,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0522,Female,White,Under 40,Majority,1,0
+SYN2-0523,Female,Asian,Under 40,Minority,0,0
+SYN2-0524,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0525,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0526,Female,White,40 and over,Majority,1,0
+SYN2-0527,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0528,Male,White,40 and over,Majority,0,0
+SYN2-0529,Male,White,40 and over,Majority,1,1
+SYN2-0530,Male,White,40 and over,Majority,0,0
+SYN2-0531,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0532,Female,Two or More Races,Under 40,Minority,1,0
+SYN2-0533,Female,White,40 and over,Majority,0,0
+SYN2-0534,Male,White,40 and over,Majority,0,0
+SYN2-0535,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0536,Female,White,Under 40,Majority,1,0
+SYN2-0537,Female,Black or African American,Under 40,Minority,1,0
+SYN2-0538,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0539,Female,White,Under 40,Majority,0,0
+SYN2-0540,Female,White,Under 40,Majority,1,1
+SYN2-0541,Female,White,40 and over,Majority,1,0
+SYN2-0542,Female,White,Under 40,Majority,1,1
+SYN2-0543,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0544,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0545,Female,White,Under 40,Majority,1,0
+SYN2-0546,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0547,Female,Asian,Under 40,Minority,1,0
+SYN2-0548,Female,White,Under 40,Majority,0,0
+SYN2-0549,Male,Asian,Under 40,Minority,0,0
+SYN2-0550,Female,White,40 and over,Majority,1,0
+SYN2-0551,Female,White,Under 40,Majority,1,0
+SYN2-0552,Female,White,Under 40,Majority,1,0
+SYN2-0553,Male,White,Under 40,Majority,1,1
+SYN2-0554,Male,White,Under 40,Majority,1,0
+SYN2-0555,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0556,Female,White,Under 40,Majority,1,0
+SYN2-0557,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0558,Female,Two or More Races,Under 40,Minority,0,0
+SYN2-0559,Female,Black or African American,Under 40,Minority,1,1
+SYN2-0560,Male,White,Under 40,Majority,0,0
+SYN2-0561,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0562,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0563,Female,White,40 and over,Majority,1,1
+SYN2-0564,Female,White,40 and over,Majority,1,0
+SYN2-0565,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0566,Female,White,Under 40,Majority,0,0
+SYN2-0567,Female,White,40 and over,Majority,1,1
+SYN2-0568,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0569,Male,White,Under 40,Majority,1,1
+SYN2-0570,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0571,Female,White,Under 40,Majority,1,0
+SYN2-0572,Male,White,40 and over,Majority,1,0
+SYN2-0573,Female,White,Under 40,Majority,0,0
+SYN2-0574,Male,White,40 and over,Majority,1,1
+SYN2-0575,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0576,Female,White,Under 40,Majority,0,0
+SYN2-0577,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0578,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0579,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0580,Female,White,Under 40,Majority,1,0
+SYN2-0581,Female,White,Under 40,Majority,1,0
+SYN2-0582,Male,White,Under 40,Majority,1,0
+SYN2-0583,Female,White,Under 40,Majority,0,0
+SYN2-0584,Female,White,Under 40,Majority,0,0
+SYN2-0585,Male,White,Under 40,Majority,0,0
+SYN2-0586,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0587,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0588,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0589,Male,White,Under 40,Majority,1,1
+SYN2-0590,Female,Hispanic or Latino,Under 40,Minority,1,1
+SYN2-0591,Male,Asian,Under 40,Minority,0,0
+SYN2-0592,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0593,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0594,Male,White,Under 40,Majority,0,0
+SYN2-0595,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0596,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0597,Male,White,Under 40,Majority,1,0
+SYN2-0598,Female,Asian,Under 40,Minority,0,0
+SYN2-0599,Female,Hispanic or Latino,Under 40,Minority,0,1
+SYN2-0600,Female,White,Under 40,Majority,0,0
+SYN2-0601,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0602,Male,White,Under 40,Majority,1,1
+SYN2-0603,Female,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0604,Female,Black or African American,40 and over,Minority,0,0
+SYN2-0605,Female,White,Under 40,Majority,1,1
+SYN2-0606,Male,White,Under 40,Majority,1,0
+SYN2-0607,Female,White,Under 40,Majority,0,0
+SYN2-0608,Female,Asian,40 and over,Minority,1,0
+SYN2-0609,Female,White,40 and over,Majority,0,0
+SYN2-0610,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0611,Male,White,Under 40,Majority,1,1
+SYN2-0612,Male,Asian,Under 40,Minority,1,1
+SYN2-0613,Female,White,Under 40,Majority,1,0
+SYN2-0614,Male,Asian,40 and over,Minority,1,0
+SYN2-0615,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0616,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0617,Female,White,Under 40,Majority,0,0
+SYN2-0618,Female,White,40 and over,Majority,1,1
+SYN2-0619,Female,White,40 and over,Majority,0,0
+SYN2-0620,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0621,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0622,Male,Asian,Under 40,Minority,1,0
+SYN2-0623,Male,White,Under 40,Majority,1,1
+SYN2-0624,Male,White,Under 40,Majority,0,0
+SYN2-0625,Female,White,Under 40,Majority,0,0
+SYN2-0626,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0627,Female,White,Under 40,Majority,1,1
+SYN2-0628,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0629,Female,White,Under 40,Majority,1,0
+SYN2-0630,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0631,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0632,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0633,Female,Asian,Under 40,Minority,1,1
+SYN2-0634,Female,White,40 and over,Majority,1,0
+SYN2-0635,Female,Two or More Races,Under 40,Minority,1,1
+SYN2-0636,Male,White,40 and over,Majority,0,0
+SYN2-0637,Female,White,40 and over,Majority,1,1
+SYN2-0638,Male,White,Under 40,Majority,0,0
+SYN2-0639,Male,White,Under 40,Majority,0,0
+SYN2-0640,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0641,Female,White,Under 40,Majority,1,1
+SYN2-0642,Male,Asian,40 and over,Minority,1,0
+SYN2-0643,Female,White,40 and over,Majority,1,1
+SYN2-0644,Male,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0645,Male,White,40 and over,Majority,0,0
+SYN2-0646,Male,White,Under 40,Majority,1,1
+SYN2-0647,Female,White,40 and over,Majority,1,0
+SYN2-0648,Male,White,40 and over,Majority,1,1
+SYN2-0649,Male,White,40 and over,Majority,1,1
+SYN2-0650,Female,Black or African American,40 and over,Minority,1,0
+SYN2-0651,Female,White,40 and over,Majority,1,0
+SYN2-0652,Female,White,40 and over,Majority,1,1
+SYN2-0653,Male,Asian,Under 40,Minority,0,0
+SYN2-0654,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0655,Male,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0656,Female,White,Under 40,Majority,1,1
+SYN2-0657,Male,Asian,40 and over,Minority,1,0
+SYN2-0658,Female,Two or More Races,Under 40,Minority,0,0
+SYN2-0659,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0660,Male,White,40 and over,Majority,0,0
+SYN2-0661,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0662,Female,White,40 and over,Majority,1,0
+SYN2-0663,Female,White,40 and over,Majority,0,0
+SYN2-0664,Male,Asian,40 and over,Minority,1,0
+SYN2-0665,Female,Black or African American,Under 40,Minority,0,1
+SYN2-0666,Male,White,Under 40,Majority,0,0
+SYN2-0667,Male,White,40 and over,Majority,1,1
+SYN2-0668,Female,White,Under 40,Majority,1,1
+SYN2-0669,Female,White,40 and over,Majority,0,0
+SYN2-0670,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0671,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0672,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0673,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0674,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0675,Female,White,40 and over,Majority,1,0
+SYN2-0676,Female,White,Under 40,Majority,1,0
+SYN2-0677,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0678,Male,White,Under 40,Majority,0,0
+SYN2-0679,Female,White,40 and over,Majority,0,0
+SYN2-0680,Male,White,Under 40,Majority,1,1
+SYN2-0681,Male,Black or African American,40 and over,Minority,1,0
+SYN2-0682,Male,White,40 and over,Majority,0,0
+SYN2-0683,Female,White,Under 40,Majority,0,0
+SYN2-0684,Female,Asian,Under 40,Minority,0,0
+SYN2-0685,Male,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0686,Female,White,Under 40,Majority,1,0
+SYN2-0687,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0688,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0689,Male,White,Under 40,Majority,0,0
+SYN2-0690,Female,Two or More Races,40 and over,Minority,1,0
+SYN2-0691,Female,White,Under 40,Majority,0,0
+SYN2-0692,Female,White,Under 40,Majority,1,1
+SYN2-0693,Male,Two or More Races,40 and over,Minority,0,0
+SYN2-0694,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0695,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0696,Female,White,40 and over,Majority,1,0
+SYN2-0697,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0698,Male,White,Under 40,Majority,0,0
+SYN2-0699,Male,White,Under 40,Majority,1,0
+SYN2-0700,Male,White,Under 40,Majority,1,1
+SYN2-0701,Female,Two or More Races,Under 40,Minority,0,1
+SYN2-0702,Female,White,Under 40,Majority,0,0
+SYN2-0703,Female,White,Under 40,Majority,0,0
+SYN2-0704,Female,White,40 and over,Majority,0,0
+SYN2-0705,Female,Asian,Under 40,Minority,1,1
+SYN2-0706,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0707,Male,Asian,Under 40,Minority,1,0
+SYN2-0708,Male,White,Under 40,Majority,1,0
+SYN2-0709,Male,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0710,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0711,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0712,Female,White,Under 40,Majority,1,0
+SYN2-0713,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0714,Female,White,Under 40,Majority,1,0
+SYN2-0715,Female,White,Under 40,Majority,1,0
+SYN2-0716,Male,White,Under 40,Majority,0,0
+SYN2-0717,Female,White,Under 40,Majority,1,1
+SYN2-0718,Male,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0719,Male,Asian,40 and over,Minority,0,0
+SYN2-0720,Male,Asian,Under 40,Minority,0,0
+SYN2-0721,Male,White,Under 40,Majority,0,1
+SYN2-0722,Female,White,40 and over,Majority,1,1
+SYN2-0723,Female,White,Under 40,Majority,0,0
+SYN2-0724,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0725,Female,White,Under 40,Majority,0,0
+SYN2-0726,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0727,Female,White,Under 40,Majority,1,0
+SYN2-0728,Male,White,Under 40,Majority,0,0
+SYN2-0729,Male,White,Under 40,Majority,1,1
+SYN2-0730,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0731,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0732,Female,White,Under 40,Majority,1,0
+SYN2-0733,Male,White,Under 40,Majority,1,1
+SYN2-0734,Female,White,40 and over,Majority,0,0
+SYN2-0735,Male,Asian,Under 40,Minority,1,1
+SYN2-0736,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0737,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0738,Female,White,Under 40,Majority,1,1
+SYN2-0739,Female,White,Under 40,Majority,1,1
+SYN2-0740,Male,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0741,Male,Asian,Under 40,Minority,1,1
+SYN2-0742,Female,Asian,Under 40,Minority,0,0
+SYN2-0743,Male,Asian,Under 40,Minority,0,0
+SYN2-0744,Female,Two or More Races,40 and over,Minority,1,1
+SYN2-0745,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0746,Female,White,40 and over,Majority,1,0
+SYN2-0747,Male,White,Under 40,Majority,0,0
+SYN2-0748,Female,Black or African American,Under 40,Minority,0,0
+SYN2-0749,Female,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0750,Female,White,Under 40,Majority,1,0
+SYN2-0751,Female,Asian,Under 40,Minority,1,0
+SYN2-0752,Male,White,Under 40,Majority,0,1
+SYN2-0753,Female,White,40 and over,Majority,1,1
+SYN2-0754,Male,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0755,Male,Hispanic or Latino,40 and over,Minority,1,0
+SYN2-0756,Male,Asian,Under 40,Minority,0,0
+SYN2-0757,Female,White,Under 40,Majority,1,1
+SYN2-0758,Male,White,40 and over,Majority,0,0
+SYN2-0759,Male,Black or African American,Under 40,Minority,1,0
+SYN2-0760,Male,Black or African American,40 and over,Minority,0,0
+SYN2-0761,Female,White,Under 40,Majority,0,0
+SYN2-0762,Female,Asian,Under 40,Minority,0,0
+SYN2-0763,Female,White,Under 40,Majority,1,0
+SYN2-0764,Female,Hispanic or Latino,40 and over,Minority,1,1
+SYN2-0765,Female,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0766,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0767,Male,Black or African American,Under 40,Minority,0,0
+SYN2-0768,Male,White,40 and over,Majority,0,0
+SYN2-0769,Male,Asian,Under 40,Minority,1,0
+SYN2-0770,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0771,Male,Two or More Races,Under 40,Minority,1,1
+SYN2-0772,Female,White,40 and over,Majority,0,0
+SYN2-0773,Female,White,Under 40,Majority,0,0
+SYN2-0774,Female,Asian,Under 40,Minority,1,1
+SYN2-0775,Male,Two or More Races,40 and over,Minority,0,0
+SYN2-0776,Female,Black or African American,40 and over,Minority,1,1
+SYN2-0777,Male,White,40 and over,Majority,1,1
+SYN2-0778,Female,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0779,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0780,Male,Two or More Races,Under 40,Minority,0,0
+SYN2-0781,Male,White,Under 40,Majority,0,0
+SYN2-0782,Female,Asian,40 and over,Minority,1,1
+SYN2-0783,Male,White,40 and over,Majority,0,0
+SYN2-0784,Male,White,Under 40,Majority,1,1
+SYN2-0785,Male,Hispanic or Latino,Under 40,Minority,0,0
+SYN2-0786,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0787,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0788,Male,Two or More Races,Under 40,Minority,0,0
+SYN2-0789,Male,Hispanic or Latino,Under 40,Minority,1,0
+SYN2-0790,Female,Hispanic or Latino,40 and over,Minority,0,0
+SYN2-0791,Female,White,Under 40,Majority,1,1
+SYN2-0792,Male,Asian,Under 40,Minority,0,0
+SYN2-0793,Male,White,Under 40,Majority,1,0
+SYN2-0794,Male,White,Under 40,Majority,0,0
+SYN2-0795,Female,White,Under 40,Majority,1,0
+SYN2-0796,Male,White,40 and over,Majority,0,0
+SYN2-0797,Female,White,Under 40,Majority,1,0
+SYN2-0798,Male,Asian,40 and over,Minority,0,0
+SYN2-0799,Female,White,Under 40,Majority,0,0
+SYN2-0800,Female,Black or African American,Under 40,Minority,0,0
